@@ -1,4 +1,4 @@
-### Hey there 🙋‍♂️, I am Mayank Jha
+# Hey there 🙋‍♂️, I am Mayank Jha
 
 ## I build things for the web.
 
