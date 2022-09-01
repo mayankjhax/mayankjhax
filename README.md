@@ -1,4 +1,6 @@
-# Hey there 🙋‍♂️, I am Mayank Jha
+# Hey there 🙋‍♂️,
+
+# I am Mayank Jha
 
 <p align="center">
     <img src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"/>
