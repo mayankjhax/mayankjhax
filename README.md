@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-![](https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp)
+    <img src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"/>
 </p>
 
 <!--
