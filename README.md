@@ -1,5 +1,6 @@
-<h1>Hey there 🙋‍♂️, I am Mayank Jha</h1>
-<p>I build things for the web.</p>
+### Hey there 🙋‍♂️, I am Mayank Jha
+
+## I build things for the web.
 
 <p align="center">
     <img src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"/>
