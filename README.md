@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<div align="center">
+<p align="center">
 ![](https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp)
-</div>
+</p>
 
 <!--
 **mayankjhax/mayankjhax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
