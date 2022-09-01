@@ -1,5 +1,5 @@
 <h1>Hey there 🙋‍♂️, I am Mayank Jha</h1>
-<h2>I build things for the web.</h2>
+<p>I build things for the web.</p>
 
 <p align="center">
     <img src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"/>
