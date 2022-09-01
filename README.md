@@ -1,8 +1,13 @@
-### Hi there 👋
+<h1>Hey there 🙋‍♂️, I am Mayank Jha</h1>
+<h2>I build things for the web.</h2>
 
 <p align="center">
     <img src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"/>
 </p>
+
+<h2>👨🏻‍💻 About Me:</h2>
+
+<h2>:heart: Let's get connected:</h2>
 
 <!--
 **mayankjhax/mayankjhax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
