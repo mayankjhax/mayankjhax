@@ -8,7 +8,7 @@
 
 - I build things for the web
 
-<h2>:heart: Let's get connected:</h2>
+<h2>☺️ Let's get connected:</h2>
 
 <!--
 **mayankjhax/mayankjhax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
