@@ -1,12 +1,11 @@
 # Hey there 🙋‍♂️, I am Mayank Jha
 
-## I build things for the web.
-
 <p align="center">
     <img src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"/>
 </p>
 
 <h2>👨🏻‍💻 About Me:</h2>
+- I build things for the web
 
 <h2>:heart: Let's get connected:</h2>
 
