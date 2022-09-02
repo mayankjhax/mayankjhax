@@ -1,6 +1,6 @@
 <!-- # Hey there 🙋‍♂️, I am Mayank Jha -->
 
-![](./assets/header.jpeg)
+<p align="center"><img src="./assets/header.jpeg" /></p>
 
 I’m a web developer specialising in functionality implementation & bug fixing in
 javascript based applications.
