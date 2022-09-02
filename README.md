@@ -1,7 +1,8 @@
 # Hey there 🙋‍♂️, I am Mayank Jha
 
 I’m a web developer specialising in functionality implementation & bug fixing in
-javascript based applications. Currently I’m focused on building applications
+javascript based applications.
+Currently I’m focused on building applications
 with better user experience through learning UI/UX.
 
 <p align="center">
