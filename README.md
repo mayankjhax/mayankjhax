@@ -2,7 +2,7 @@
 
 ❗️ This readme is under continuous improvements
 
-<p align="center"><img src="./assets/header.jpeg" /></p>
+<p align="center"><img src="./assets/header.png" /></p>
 
 I’m a web developer specialising in functionality implementation & bug fixing in
 javascript based applications.
