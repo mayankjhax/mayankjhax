@@ -9,6 +9,7 @@ javascript based applications.
     <img src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"/>
 </p>
 
+<h3>Programming languages:</h3>
 <code>html</code> <code>css</code> <code>javascript</code> <code>typescript</code> <code>react</code> <code>nodejs</code> <code>graphql</code> <code>gatsby</code> <code>C++</code> <code>git</code> <code>github</code>
 
 <h2>👨🏻‍💻 About Me:</h2>
