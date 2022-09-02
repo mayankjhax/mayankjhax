@@ -1,4 +1,6 @@
-# Hey there 🙋‍♂️, I am Mayank Jha
+<!-- # Hey there 🙋‍♂️, I am Mayank Jha -->
+
+![](./assets/header.jpeg)
 
 I’m a web developer specialising in functionality implementation & bug fixing in
 javascript based applications.
