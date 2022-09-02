@@ -10,7 +10,7 @@ javascript based applications.
 </p>
 
 <!-- TODO: Organise this by https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h2>🔧 Technical Skills</h2>
+<h2>🛠 Technical Skills</h2>
 <h4>Programming languages:</h4>
 <code>html</code> <code>css</code> <code>javascript</code> <code>typescript</code> <code>react</code> <code>nodejs</code> <code>graphql</code> <code>gatsby</code> <code>C++</code> <code>git</code> <code>github</code>
 <h4>Backend development:</h4>
