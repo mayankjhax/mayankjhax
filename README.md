@@ -25,6 +25,7 @@ javascript based applications.
 <h2>Let's Connect:</h2>
 
 Email: contact@mayankjha.net
+
 Phone: +91 70420 31874
 
 <!--
