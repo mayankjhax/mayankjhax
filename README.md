@@ -24,7 +24,7 @@ javascript based applications.
 
 <h2>Let's Connect:</h2>
 
-Email: contact@
+Email: contact@mayankjha.net
 
 <!--
 **mayankjhax/mayankjhax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
