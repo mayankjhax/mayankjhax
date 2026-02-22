@@ -26,8 +26,6 @@ javascript based applications.
 
 Email: contact@mayankjha.net
 
-Phone: +91 70420 31874
-
 <!--
 **mayankjhax/mayankjhax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
